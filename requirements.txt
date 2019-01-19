@@ -1,0 +1,8 @@
+numpy
+pandas
+cython
+matplotlib
+seaborn
+jupyter
+pystan
+fbprophet
